@@ -1,4 +1,5 @@
 /*Eric Gutierrez 
+* September 2 , 2022
  * Purpose: To validate credit cards using Luhn algorithm.If credit card is valid then 
  * the program will return a random pin 
  */
